@@ -1,0 +1,6 @@
+ie/dq/data/repository/SampleDataRepository.class
+ie/dq/data/api/DataController.class
+ie/dq/data/domain/SampleData.class
+ie/dq/data/service/DataService.class
+ie/dq/data/service/impl/DataServiceImpl.class
+ie/dq/data/DataApplication.class
